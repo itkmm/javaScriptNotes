@@ -1,3 +1,4 @@
-let x=10;
-let y=50;
-console.log(x+y);
+for (let index = 0; index < 5; index++) {
+    
+    console.log("ashok kumar naik"+" "+index);
+}
