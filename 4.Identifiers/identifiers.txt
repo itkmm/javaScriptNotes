@@ -1,0 +1,12 @@
+To model the real-world entities,they have to be named to use it in the JavaScript program.
+Identifiers are those names that help in naming the elements in JavaScript.
+Example:
+firstName;
+placeOfVisit;
+
+Identifiers should follow below rules:
+The first character of an identifier should be letters of the alphabet or an underscore (_) or dollar sign ($).
+Subsequent characters can be letters of alphabets or digits or underscores (_) or a dollar sign ($).
+Identifiers are case-sensitive. Hence, firstName and FirstName are not the same.
+Reserved keywords are part of programming language syntax and cannot be used as identifiers.
+
