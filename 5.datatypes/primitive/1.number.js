@@ -8,5 +8,4 @@
 let result = 0/0; // its value is NaN  
 let Result = "Ten" * 5; //its value is NaN 
 console.log(result);
-console.log(Result);
 

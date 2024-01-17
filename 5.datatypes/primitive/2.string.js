@@ -7,4 +7,4 @@
 let personName1 = "Rexha"; //OR
 let personName2 = "Rexha"; // both will have its value as Rexha
 let personName3 = `Rexha`;
-console.log(personName);
+console.log(personName1);

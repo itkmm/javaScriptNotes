@@ -11,4 +11,5 @@ var b=20;
 var c=0;
 console.log(a>b);
 console.log(Boolean(a));
+console.log(Boolean(b));
 console.log(Boolean(c));
