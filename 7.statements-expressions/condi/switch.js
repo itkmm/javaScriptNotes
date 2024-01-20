@@ -34,4 +34,4 @@
          console.log("Sorry!! Invalid Rating.");
  }
  
- 
+ //The break statements allow to get control out of the switch once we any match is found.
