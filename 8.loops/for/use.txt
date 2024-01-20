@@ -1,0 +1,13 @@
+for loop: 
+This loop is used when you know the number of iterations in advance and want 
+a concise way to express the initialization, condition, and iteration step.
+
+1. Traffic Signals:
+A traffic light system might use loops to control the timing of the signal lights. 
+For example, a `for` loop could be used to cycle through the different lights
+ (red, yellow, green) in a predetermined sequence.
+
+2.Elevator Systems:
+ Elevator systems in buildings might use loops to control the movement of the
+  elevator car between floors. A `for` loop could be employed to iterate 
+  through the floors in a sequence, stopping at each floor where passengers are waiting.

@@ -1,0 +1,15 @@
+while loop: 
+This loop is used when you want to repeat a block of code while a certain condition is true.
+ It is more flexible than the for loop when the number of iterations is not known 
+ beforehand.
+
+1. Washing Machines:
+   - In a washing machine, loops could be used to control the cycles of washing, 
+   rinsing, and spinning. A `while` loop might be used to continuously agitate 
+   the clothes until a certain condition 
+   (e.g., a set time or completion of the wash cycle) is met.
+
+2. Temperature Control:
+   - Heating, ventilation, and air conditioning (HVAC) systems often use loops
+    to control the temperature. A `while` loop might be used to continually adjust 
+    the heating or cooling until the desired temperature is reached.

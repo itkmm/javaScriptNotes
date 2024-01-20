@@ -1,0 +1,10 @@
+do-while loop: 
+This loop is similar to the while loop, but it guarantees that the code inside
+ the loop is executed at least once, even if the condition is initially false.
+  This is useful in situations where you want the code to run at least once and
+   then check the condition for further iterations.
+
+5. Robotics and Automation:
+In manufacturing processes, robots or automated systems may use loops to repeat
+certain tasks until a condition is met. For example, a robot arm might use a 
+`do-while` loop to continue picking and placing items until the production line is empty.
